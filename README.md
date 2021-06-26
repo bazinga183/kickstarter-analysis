@@ -5,8 +5,8 @@ This workbook contains data from various kickstart campaigns such as its name, a
 the kickstarter, the data it launched and ended, country of origin, type of kickstarter, and if it succeeded, failed, or was canceled.  
 
 ### Purpose
-To look at USA kickstarter data and break it up into different sections to determine the appropriate amount of pledge and and goal funds
-needed in order to have a successful kickstarting campaign.
+To review US kickstarting data and break the different types of kickstarters by their parent and subcategories. This is so that we can inform a client 
+what is the best kickstarting catergory to pursue and what their financial goal should be in order to achieve this goal.
 
 ## Analysis and Challenges
 The analysis involved spreading the data into several different tabs so that I could break down which subcategories of kickstarters were
@@ -66,6 +66,6 @@ The limitations include the small sample size for intervals that exceed 5000 dol
 how far goals got in reaching their targeted dollar amount, only if they succeeded or failed.
 
 - What are some other possible tables and/or graphs that we could create?
-Additional graphs that can be created are for those that failed, how far away were they from their goal. This is to say, for those
-goals that exceeded 5000, how far away were they from attaining their goal. If it's not too far, then the case can be made that aiming high
-for a goal that requires little money may still be a success in the long run for the kickstarter theater.
+For future analytics, additional graphs that can be created are for those that failed, how far away were they from their goal. This is to say, for those
+goals that exceeded 5000, how far away were they from attaining their goal? If it's not too far, then the case can be made that aiming high
+for a goal while requiring a small budget may still be a success in the long run for a kickstarter theater despite not meeting the initial high goal.
